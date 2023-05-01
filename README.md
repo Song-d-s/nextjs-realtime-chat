@@ -3,6 +3,8 @@
 Following the course building and deploying a realtime chat app on Next.js
 
 ## [Demo](https://nextjs-realtime-chat-tawny.vercel.app/)
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/110221789/235443437-7dfd1317-1c6e-4431-9a88-ee6120175a2c.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/110221789/235443513-4dfb431a-8336-48ec-88b4-be75a1306737.gif)
 
 ## Tech Stacks
 
